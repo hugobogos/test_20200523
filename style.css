@@ -1,0 +1,51 @@
+header{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+
+}
+header h1{
+    color: white;
+}
+main h2{
+    display: flex;
+    justify-content: center;
+}
+.text1{
+    display: flex;
+    justify-content: start;
+    background-color: green;
+    height: 500px;
+}
+.text1 p{
+    font-size: 40px;
+    margin: 0px;
+    padding: 0px;
+}
+.sectionTwo img{
+    height: 100%;
+    width: 100%;
+}
+.sectionTwo figure{
+    margin: 0px;
+    padding: 0px;
+}
+.shape div{
+    margin: 20px;
+}
+.sectionThree .square{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+}
+.sectionThree .rectangle{
+    height: 200px;
+    width: 400px;
+    background-color: purple;
+}
+.sectionThree .circle{
+    height: 200px;
+    width: 200px;
+    background-color: darkblue;
+    border-radius: 50%;
+}
